@@ -33,3 +33,24 @@
     border-bottom: 1px solid grey;
     cursor: pointer;
 }
+
+.col {
+    display: flex;
+    align-items: center;
+}
+
+.iconBG {
+    background-color: purple;
+    margin-right: 1vw;
+    border-radius: 50%;
+    height: 2em;
+    width: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconFG {
+    color: white;
+    font-size: 1.5em;
+}
